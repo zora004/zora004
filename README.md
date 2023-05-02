@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zora
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning rails and laravel framework
+- 🌱 I’m a fullstack web developer
 - 📫 Work life balance is a must
 
 <!---
