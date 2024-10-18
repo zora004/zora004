@@ -38,17 +38,20 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
+<div align="center">
+  <h1> Contact Me :telephone: </h1>
+
+  <a href="https://portfolio-zora04.vercel.app" target="_blank" title="My Portfolio Website"> ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </a>
+  <a href="https://www.facebook.com/zoraa04" target="_blank" title="zoraa04"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
+  <a href="https://www.instagram.com/zora.abaquita" target="_blank" title="zora.abaquita"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+  <a href="mailto:abaquita04@gmail.com" title="abaquita04@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+  <a href="https://discord.com/zora004/623944942896807936" title="zora004#2389"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
+  <a href="https://www.linkedin.com/in/razor-abaquita-a82641225/" title="razor-abaquita-a82641225"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+  <a href="#" title="+(63) 976 045 8277"> ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white) </a>
+
+</div>
+
+##
 
 > [!NOTE]
-> You may connect with me through the following social media accounts. <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="😁" width="32" height="32"></picture>
- 
-<div align="center">
-
-
-<a href="https://portfolio-zora04.vercel.app" target="_blank" title="My Portfolio Website"> ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </a>
-<a href="https://www.facebook.com/zoraa04" target="_blank" title="zoraa04"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
-<a href="https://www.instagram.com/zora.abaquita" target="_blank" title="zora.abaquita"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
-<a href="mailto:abaquita04@gmail.com" title="abaquita04@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-<a href="https://discord.com/zora004/623944942896807936" title="zora004#2389"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
-<a href="https://www.linkedin.com/in/razor-abaquita-a82641225/" title="razor-abaquita-a82641225"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="#" title="+(63) 976 045 8277"> ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white) </a>
+> I am a very enthusiastic programmer. <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="😁" width="32" height="32"></picture>
