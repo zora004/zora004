@@ -55,3 +55,4 @@ You can click the Preview link to take a look at your changes.
 
 > [!NOTE]
 > I am a very enthusiastic programmer. <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.gif" alt="😁" width="32" height="32"></picture>
+> <br> ![](https://komarev.com/ghpvc/?username=zora004) <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f441_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f441_fe0f/512.gif" alt="👁" width="32" height="32"></picture>
