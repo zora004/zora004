@@ -41,4 +41,4 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:abaquita04@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 <a href="https://discord.com/zora004/623944942896807936"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
 <a href="https://www.linkedin.com/in/razor-abaquita-a82641225/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="#" tooltip="+(63) 976 045 8277"> ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white) </a>
+<a href="#" title="+(63) 976 045 8277"> ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white) </a>
