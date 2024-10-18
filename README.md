@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @zora
-- 👀 I’m interested in software development
-- 🌱 I’m a fullstack web developer
-- 📫 Work life balance is a must
 
+
+
+> [!IMPORTANT]
+> # The name is :ZORA <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f383/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f383/512.gif" alt="🎃" width="32" height="32"></picture>
+
+<div align="center">
 <!---
 zora004/zora004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -37,4 +39,3 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
     <img align="center" alt="" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
-<br>
