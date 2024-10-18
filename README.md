@@ -7,6 +7,13 @@
 zora004/zora004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<table><tr><td align="center">
+  
+![Giphy Gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+</td></tr></table>
+
+
 <div>
   <a href="https://github.com/zora004">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=zora004&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
@@ -30,3 +37,4 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
     <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
+<br>
