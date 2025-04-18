@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h1> Contact Me :telephone: </h1>
 
-  <a href="https://portfolio-zora04.vercel.app" target="_blank" title="My Portfolio Website"> ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </a>
+  <a style="text-decoration: none;" href="https://portfolio-zora04.vercel.app" target="_blank" title="My Portfolio Website"> ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) </a>
   <a href="https://www.facebook.com/zoraa04" target="_blank" title="zoraa04"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
   <a href="https://www.instagram.com/zora.abaquita" target="_blank" title="zora.abaquita"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
   <a href="mailto:abaquita04@gmail.com" title="abaquita04@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
